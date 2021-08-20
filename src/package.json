@@ -29,6 +29,7 @@
     "http-errors": "^1.6.3",
     "image-size": "^0.9.7",
     "jade": "~1.11.0",
+    "json2csv": "^5.0.6",
     "jsonwebtoken": "^8.5.1",
     "kafka-node": "^3.0.1",
     "lodash": "^4.17.15",
